@@ -1,5 +1,5 @@
 {
-  "name": "abi-coder",
+  "name": "@alexastrabit/abi-coder",
   "version": "5.0.0",
   "description": "ABI function, event, and contrustor encoder/decoder",
   "author": "Timur Badretdinov <destinerx@gmail.com>",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git://github.com/Destiner/abi-coder.git"
   },
-  "type": "module",
+  "type": "commonjs",
   "files": [
     "lib/"
   ],
